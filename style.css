@@ -40,3 +40,12 @@ textarea{
     margin-bottom: 30px;
 
 }
+textarea::placeholder{
+    color: #fdd4d4;
+}
+.row{
+    display: flex;
+    width: 600px;
+    gap: 20px;
+    align-items: center;
+}
