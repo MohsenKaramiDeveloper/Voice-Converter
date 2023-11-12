@@ -14,3 +14,19 @@
     flex-direction: column;
     
 }
+
+.hero h1{
+    font-size: 45px;
+    font-weight: 500;
+    margin-top: -50px;
+    margin-bottom: 50px;
+    color: #fff;
+
+}
+.hero h1 span{
+    color: rgba(255, 81, 0, 0.768);
+}
+textarea{
+    width: 600px;
+    height: 250px;
+}
